@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import { PROFILE } from './data';
+import { Analytics } from '@vercel/analytics/react';
 
 function useScrollReveal() {
   useEffect(() => {
@@ -64,6 +65,7 @@ export default function App() {
           </p>
         </div>
       </footer>
+      <Analytics />
     </>
   );
 }
