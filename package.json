@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/abrshiz/Personal-Portifolio#readme",
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
