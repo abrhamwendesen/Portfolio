@@ -154,7 +154,7 @@ export const PROJECTS = [
 
 export const CONTACT = [
   { key: 'email', icon: 'fas fa-envelope', label: 'Email', value: 'abrshiz@yahoo.com', href: 'mailto:abrshiz@yahoo.com' },
-  { key: 'phone', icon: 'fas fa-phone', label: 'Phone', value: '+251 987 075 109', href: 'tel:+251987075109' },
+  { key: 'phone', icon: 'fas fa-phone', label: 'Phone', value: '+251 876 733 48', href: 'tel:+251987673348' },
   { key: 'location', icon: 'fas fa-map-marker-alt', label: 'Location', value: 'Dire Dawa, Ethiopia' },
   { key: 'timezone', icon: 'fas fa-clock', label: 'Timezone', value: 'EAT (UTC+3) · Remote friendly' },
 ];
